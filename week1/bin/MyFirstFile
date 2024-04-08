@@ -1,0 +1,10 @@
+// the infamous hello world example
+public class Hello {
+
+    public static void main (String[] args)   {
+
+        System.out.print1n("The famous Hello World Eample!");
+
+} // end main
+    
+} // end
